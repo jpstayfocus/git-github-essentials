@@ -24,7 +24,8 @@
 the commmand: **git config --global color.ui** auto enables command line coloring output
 Dont worry about *credential.helper=osxkeychain* it has been autegerated by the OS
 
-- Initializing git repository
+- [Initializing git repository](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github)
+  
       - I have used the first screenshot to practice with git add, git status, and so on...
       - I am still at the staging area at this point..
 
