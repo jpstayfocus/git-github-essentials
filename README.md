@@ -28,13 +28,16 @@ Dont worry about *credential.helper=osxkeychain* it has been autegerated by the 
       - I have used the first screenshot to practice with git add, git status, and so on...
       - I am still at the staging area at this point..
 
-  ![Screenshot 2023-10-25 at 11 30 51 PM](https://github.com/jpstayfocus/git-github-essentials/assets/110998062/d822b544-5361-4cab-8723-30370d5f9cc5)
+![Screenshot 2023-10-25 at 11 30 51 PM](https://github.com/jpstayfocus/git-github-essentials/assets/110998062/d822b544-5361-4cab-8723-30370d5f9cc5)
 
-  <img width="845" alt="Screenshot 2023-10-25 at 11 32 25 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/2d96a889-53bb-497e-a987-9fddf5099292">
+
+<img width="843" alt="Screenshot 2023-10-25 at 11 31 43 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/7737686d-dd55-4451-aaa1-b1d21624792e">
 
 <img width="843" alt="Screenshot 2023-10-25 at 11 32 07 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/24f0d90b-f155-4246-95e2-050b164579e9">
 
-<img width="843" alt="Screenshot 2023-10-25 at 11 31 43 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/7737686d-dd55-4451-aaa1-b1d21624792e">
+<img width="845" alt="Screenshot 2023-10-25 at 11 32 25 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/2d96a889-53bb-497e-a987-9fddf5099292">
+
+
 
   
 
