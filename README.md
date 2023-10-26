@@ -24,5 +24,8 @@
 the commmand: **git config --global color.ui** auto enables command line coloring output
 Dont worry about *credential.helper=osxkeychain* it has been autegerated by the OS
 
+- Initializing git repository
+  
+
 
 
