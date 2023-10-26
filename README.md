@@ -11,4 +11,10 @@
 - Exploring GitHub
 - Open Source Software
 
-### [How git works?](https://developer.ibm.com/tutorials/d-learn-workings-git/)
+### Useful links
+- [How git works?](https://developer.ibm.com/tutorials/d-learn-workings-git/)
+- [Git Installation for Mac and Windows users](https://github.com/git-guides/install-git)
+    - Windows Users
+        - [GitBash](https://gitforwindows.org/) or [cmder](https://cmder.net/)
+
+
