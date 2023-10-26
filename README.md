@@ -16,6 +16,8 @@
 - [Git Installation for Mac](https://github.com/git-guides/install-git)
     - Windows Users
         - [GitBash](https://gitforwindows.org/) or [cmder](https://cmder.net/)
+     
+## Git add
 
 - [How to configure git?](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
 
@@ -37,6 +39,10 @@ Dont worry about *credential.helper=osxkeychain* it has been autegerated by the 
 <img width="843" alt="Screenshot 2023-10-25 at 11 32 07 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/24f0d90b-f155-4246-95e2-050b164579e9">
 
 <img width="845" alt="Screenshot 2023-10-25 at 11 32 25 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/2d96a889-53bb-497e-a987-9fddf5099292">
+
+## [Git commit](https://github.com/git-guides/git-commit) or check the [atlassian online documentation](https://www.atlassian.com/git)
+
+
 
 
 
