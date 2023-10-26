@@ -16,5 +16,7 @@
 - [Git Installation for Mac](https://github.com/git-guides/install-git)
     - Windows Users
         - [GitBash](https://gitforwindows.org/) or [cmder](https://cmder.net/)
+- How to configure git?
+
 
 
