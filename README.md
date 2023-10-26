@@ -11,4 +11,4 @@
 - Exploring GitHub
 - Open Source Software
 
-# [How git works?](https://developer.ibm.com/tutorials/d-learn-workings-git/)
+### [How git works?](https://developer.ibm.com/tutorials/d-learn-workings-git/)
