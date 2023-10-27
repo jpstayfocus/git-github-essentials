@@ -46,6 +46,9 @@ Below, I have done some commits, amend commit messages and show use git log to s
 
 <img width="834" alt="Screenshot 2023-10-25 at 11 57 26 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/5d05734f-8d5c-46a5-a93b-0daa1f9a332f">
 
+- [working with branches](https://uoftcoders.github.io/studyGroup/lessons/git/branches/lesson/)
+  
+
 
 
 
