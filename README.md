@@ -54,6 +54,8 @@ Below, I have done some commits, amend commit messages and show use git log to s
 
 <img width="818" alt="Screenshot 2023-10-26 at 11 09 03 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/1f300f1d-9093-4768-8bc7-36dfee8ffe19">
 
+_ [Git general workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
+
   
 
 
