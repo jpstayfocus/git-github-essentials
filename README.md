@@ -51,6 +51,9 @@ Below, I have done some commits, amend commit messages and show use git log to s
 <img width="836" alt="Screenshot 2023-10-26 at 10 45 35 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/ffad1d73-d38d-4c69-a33a-95f6aaac997b">
 
 - [Merging and pull requests](https://opensource.com/article/19/7/create-pull-request-github)
+
+<img width="818" alt="Screenshot 2023-10-26 at 11 09 03 PM" src="https://github.com/jpstayfocus/git-github-essentials/assets/110998062/1f300f1d-9093-4768-8bc7-36dfee8ffe19">
+
   
 
 
